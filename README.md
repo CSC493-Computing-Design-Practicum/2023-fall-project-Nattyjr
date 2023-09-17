@@ -1,5 +1,5 @@
-# *Replace with YourProposedProposedProjectName*
-## Description/Motivation
+# *Negus Tour and Travel website*
+## I was motivated to work on this project concept because I am an international student from Ethiopia and I have most of my family and friends back home who are always willing to show around any tourists that visit Ethiopia. Over the summer I had some friends who were trying to go to Ethiopia and they were asking questions like where to go,stay, visit and eat and so many questions.So i decided to create a really friendly and budget, and Gps included website
 
 Your formally written project proposal description, and why it is useful/interesting/fun goes here. Try to be as descriptive as possible, as we will be discussing your project ideas during the brainstorming in class.
 
