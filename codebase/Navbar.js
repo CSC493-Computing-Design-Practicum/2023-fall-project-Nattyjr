@@ -1,6 +1,7 @@
 ﻿import { Component } from "react";
 import "./NavbarStyles.css";
-
+import { MenuItems } from "./MenuItems";
+import { Link } from "react-router-dom";
 
 class Navbar extends Component {
     render() {
@@ -9,9 +10,21 @@ class Navbar extends Component {
                 <h1 className="navbar-logo">Negus</h1>
 
                 <ul className="nav-menu">
+                    {MenuItems.map((item, index) => {
+                        return (
+                            <li key={index}>
+                                <a className={item.cName} href="/">
+                                    <i></i>
+                                    <i className={item.icon}></i>
+                                    {item.title}
+                                </a>
+                            </li>
+                        );
+                    })}
+
                     <li>
                         <a href="/">
-                            <i></i><i className="fa-solid fa-house"></i>Home
+                            <i></i>
                         </a>
                     </li>
                 </ul>
@@ -19,6 +32,5 @@ class Navbar extends Component {
         );
     }
 }
-
 
 export default Navbar;
