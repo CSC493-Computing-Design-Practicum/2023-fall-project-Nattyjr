@@ -6,8 +6,8 @@ import { Link } from "react-router-dom";
 class Navbar extends Component {
   state = { clicked: false };
   handleClick = () => {
-    this.setState({ clicked: !this.state.clicked })
-  }
+    this.setState({ clicked: !this.state.clicked });
+  };
   render() {
     return (
       <nav className="NavbarItems">
@@ -18,15 +18,16 @@ class Navbar extends Component {
           ></i>
         </div>
 
-        <ul className="nav-menu">
+        <ul className={this.state.clicked ? 
+        "nav-menu active" : "nav-menu"}>
           {MenuItems.map((item, index) => {
             return (
               <li key={index}>
-                <a className={item.cName} href="/">
+                <Link className={item.cName} to={item.url}>
                   <i></i>
                   <i className={item.icon}></i>
                   {item.title}
-                </a>
+                </Link>
               </li>
             );
           })}
