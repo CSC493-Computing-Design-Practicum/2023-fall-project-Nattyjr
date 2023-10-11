@@ -8,7 +8,7 @@ Scope- A tour and travel website is a platform designed to provide users with in
 
 Vision-The vision for Negus tour and travel website project is to create an online platform that makes it easy for travelers to discover, plan, and book their dream vacations and provide a user-friendly website that offers a wide range of travel options.
 
-
+Logo- added logo
 
 
 
