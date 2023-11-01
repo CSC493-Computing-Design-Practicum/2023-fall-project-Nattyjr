@@ -18,8 +18,12 @@ What is likely to be needed to install and to run *YourProposedProjectName* go h
 
 ## Built With
 
-- [Flask): A framework that is likely to be used goes here.
-- [Django): A second framework that is likely to be used goes here.
+- [Flask):
+- [Django):
+- Git
+- CSS
+- HTML
+- React JS
 - IDE, if applicable
 
 ## Author
