@@ -1,0 +1,23 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+import TravelPlanPage from './TravelPlanPage';
+
+import './Travel.css'; // Import the CSS file
+
+function TravelPlanButton() {
+  return (
+    <div className="travel-plan-button-container">
+      <div className="bg-light p-3 rounded travel-plan-button mx-auto">
+        <h2 className="text-center">Plan Your Travel</h2>
+        <p className="text-center">Explore and plan your next adventure!</p>
+
+        {/* Travel Plan button */}
+        <Link to="/travel-plan" className="btn btn-primary w-100 rounded-0">
+          Start Planning
+        </Link>
+      </div>
+    </div>
+  );
+}
+
+export default TravelPlanPage;
