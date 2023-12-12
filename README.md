@@ -20,15 +20,22 @@ Logo- added logo
 What is likely to be needed to install and to run *YourProposedProjectName* go here. If nothing is required (i.e. it is a website), state so.
 
 ## Built With
-
+Data Base
 - MongoDB:
+Backend Development
 - Node Express:
 - Git
+Frontend development
 - CSS
 - HTML
 - React JS
+- Javascript
+- Figma
+
+  IDE
 - VS Code
-- 
+- Codesandbox
+- replit
 
 ## Author
 
@@ -39,7 +46,7 @@ What is likely to be needed to install and to run *YourProposedProjectName* go h
 - Professor Deanna Wilborne
 - Isra Tech
 - Kishan Sheth
-- CSC495 CLASSMATES 
+ 
 
 ## License (not required initially)
 
