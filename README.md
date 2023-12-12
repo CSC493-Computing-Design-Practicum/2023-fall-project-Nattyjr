@@ -6,8 +6,11 @@ Your formally written project proposal description, and why it is useful/interes
 
 Scope- A tour and travel website is a platform designed to provide users with information, booking services, and recommendations for travel destinations, accommodations, activities, and transportation options. It serves as a one-stop shop for individuals or groups looking to plan their vacations or trips. 
 
-Vision-The vision for Negus tour and travel website project is to create an online platform that makes it easy for travelers to discover, plan, and book their dream vacations and provide a user-friendly website that offers a wide range of travel options.
+The vision for Negus tour and travel website project is to create an online platform that makes it easy for travelers to discover, plan, and book their dream vacations and provide a user-friendly website that offers a wide range of travel options.
+We strive to redefine the travel industry by embracing innovation, sustainability, and personalized service. Through cutting-edge technology and a commitment to responsible tourism, we aim to make travel seamless, enriching, and accessible to all.
 
+In our vision of the future, every journey becomes a transformative adventure, leaving a positive impact on travelers and the communities they encounter. We see a world where our platform connects like-minded explorers, creating a global community that celebrates the beauty of our planet and its people.
+     
 Logo- added logo
 
 
@@ -18,13 +21,14 @@ What is likely to be needed to install and to run *YourProposedProjectName* go h
 
 ## Built With
 
-- [Flask):
-- [Django):
+- MongoDB:
+- Node Express:
 - Git
 - CSS
 - HTML
 - React JS
-- IDE, if applicable
+- VS Code
+- 
 
 ## Author
 
@@ -32,9 +36,10 @@ What is likely to be needed to install and to run *YourProposedProjectName* go h
 
 ## Acknowledgments
 
-- If you find code that you are going to use in YourProjectName, include author's name and URL here.
-- all who inspired the idea and/or the code in YourProjectName
-- other people you wish to acknowledge
+- Professor Deanna Wilborne
+- Isra Tech
+- Kishan Sheth
+- CSC495 CLASSMATES 
 
 ## License (not required initially)
 
