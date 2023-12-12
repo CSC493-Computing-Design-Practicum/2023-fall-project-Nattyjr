@@ -6,8 +6,8 @@ function TravelPlanPage() {
   // Other state variables for form inputs
 
   useEffect(() => {
-    // Fetch and set the list of travel plans when the component mounts
-    // Use axios or your preferred HTTP library
+  
+
     axios.get('/api/travelplans')
       .then(response => setTravelPlans(response.data))
       .catch(error => console.error(error));
